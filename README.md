@@ -1,4 +1,4 @@
-This repository contains work-product documents that others may find helpful as they confront the epidemic.
+This repository contains work-product documents that others may find helpful as they confront the epidemic.  All documents are in the public domain.  They are not endorsed by, nor represent the official policy of, the Department of Defense, the Air National Guard, or the California Military Department.
 
 ## R<sub>0</sub> vs. R<sub>e</sub> vs. Doubling Time -- Which to Follow during an Epidemic?
 
