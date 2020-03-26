@@ -1,4 +1,4 @@
-This repository contains a number of work-product documents that others may find helpful as they confront the epidemic.
+This repository contains work-product documents that others may find helpful as they confront the epidemic.
 
 ## R<sub>0</sub> vs. R<sub>e</sub> vs. Doubling Time -- Which to Follow during an Epidemic?
 
